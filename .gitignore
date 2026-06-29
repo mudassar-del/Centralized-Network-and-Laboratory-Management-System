@@ -1,0 +1,29 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+venv/
+.venv/
+env/
+
+# Build output
+
+build/
+dist/
+*.spec
+
+# VS Code
+
+.vscode/
+
+# PyInstaller
+
+*.manifest
+
+# Windows
+
+Thumbs.db
